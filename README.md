@@ -1,2 +1,7 @@
 # SOP-Generator
-This project focuses on developing an AI-powered SOP (Statement of Purpose) generator
+
+This project is an advanced AI-powered Statement of Purpose (SOP) generator, designed to revolutionize the application process for students and professionals seeking admission to universities or applying for job positions. Leveraging the cutting-edge capabilities of OpenAI’s GPT models, the system allows users to input critical information such as their name, email, preferred university, course, and their motivations for applying, along with the option to upload a resume. The platform seamlessly processes this data to create a highly personalized, professional, and compelling SOP that highlights the applicant's strengths, achievements, and ambitions.
+
+What sets this project apart is the integration of dynamic sample suggestions, which guide users in crafting their reasons for choosing a particular university or course, helping them structure their responses in a way that is both authentic and impactful. The easy-to-use interface enhances user experience by enabling resume uploads through an interactive drag-and-drop feature, and ensuring that every element of the SOP reflects the user’s unique background and aspirations.
+
+This AI-driven platform automates a traditionally time-consuming and daunting task, making it quicker and more efficient, without compromising on quality. Whether applying for graduate programs, scholarships, or international opportunities, this project offers a comprehensive and intelligent solution to help applicants stand out, ensuring their SOP is both persuasive and professionally written.
